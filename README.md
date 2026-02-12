@@ -12,7 +12,7 @@ El objetivo de este ejercicio fue aprender a mostrar información directamente e
 ## Código destacado
 En este ejercicio utilicé la función `document.writeln()` para imprimir texto directamente en el cuerpo del documento HTML:
 
-```javascript
+javascript
 document.writeln("Hola, este es mi primer código con JavaScript!");
 
 Resultado: [Modulo 4 - Ejercicio practico 1](https://pablodisewild.github.io/miprimerc-digo_JavaScript/)
